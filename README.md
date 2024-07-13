@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Ana Vieira!👋
 
- 🌱 Estou estudando atualmente desenvolvimento back-end em Java
+ 🌱 Estou estudando atualmente desenvolvimento back-end em Java. Além disso, estou adquirindo conhecimento em Front-End (HTML, CSS e JavaScript).
+ 🌱 Utilizo Python para análises e estou montando os repositórios de data.
  
  📫 Me contacte por: ana_akai@live.com
  
