@@ -10,7 +10,7 @@
  
 ![Ana Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=anakvieira&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anakvieira&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacvieiras&layout=compact) 
 
 ## Tecnologias que eu uso no dia a dia
 ### Desenvolvimento
