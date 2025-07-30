@@ -1,28 +1,63 @@
-### Olá! Eu sou a Ana Vieira!👋
+# 👋 Olá, eu sou a Ana Vieira
 
- 🌱 Estou estudando atualmente desenvolvimento back-end em Java. Além disso, estou adquirindo conhecimento em Front-End (HTML, CSS e JavaScript).  
- 🌱 Utilizo Python para análises e estou montando os repositórios de data.
- 
- 📫 Me contacte por: ana_akai@live.com
- 
- 😄 Pronomes: Ela/Dela/She/Her
-
+Estudante de Análise e Desenvolvimento de Sistemas, estagiária de suporte técnico na Xcelis, com mais de 4 anos de experiência em ambientes de produção crítica. Apaixonada por resolver pepinos técnicos e tornar sistemas funcionando **como um relógio suíço** — seja no front-end, back-end ou suporte.
  
 ![Ana Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=anacvieiraa&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacvieiraa&layout=compact) 
 
-## Tecnologias que eu uso no dia a dia
-### Desenvolvimento
+---
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 O que eu faço
 
-### Análise de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)
+- Suporte técnico N1/N2 baseado em ITSM, SLA e troubleshooting  
+- Desenvolvimento full stack com projetos pessoais e acadêmicos  
+- Integrações via API REST, teste com Postman/SoapUI e análise de logs  
+- Criação e manutenção de dashboards com Power BI, Tableau, Grafana  
+- Automatização com **Python**, scripts, consultas SQL em **PostgreSQL/MySQL**  
+- Front-end em **HTML, CSS, JavaScript, PHP**; back-end com ênfase em lógica e API  
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+| Categoria              | Ferramentas / Linguagens                          |
+|------------------------|---------------------------------------------------|
+| Ferramentas ITSM       | Zendesk, Salesforce, MantisBT                    |
+| Banco de Dados         | PostgreSQL, MySQL, MariaDB, SQL avançado         |
+| APIs e Integrações     | JSON, REST API, Postman, SoapUI, logs             |
+| Front-end              | HTML5, CSS3, JavaScript, frameworks leves         |
+| Análise & Dashboard    | Power BI, Tableau, Metabase, Grafana, Excel       |
+| Linguagens             | Python, JavaScript, PHP, C#, R                         |
+| Ambientes              | Linux, Windows, Office 365                        |
+| Boas práticas          | ITIL v3, metodologias ágeis, DevOps Essentials    |
+| Comunicação            | Inglês (nível C1), documentação técnica bilíngue  |
+
+---
+
+## 💡 Projetos em destaque
+
+- **Gestão de chamados interna** (Xcelis): ferramenta própria que otimizou KPIs de AMS e garantiu 100% de SLA para clientes estratégicos.
+- **Integrações e APIs**: testes, logs e documentação em SoapUI/Postman (JSON, autenticação, endpoints REST).
+
+---
+
+## 🎯 Por que me contratar
+
+- 🔧 Entrego soluções que cruzam suporte técnico com desenvolvimento  
+- 🚧 Estou acostumada com incidentes em ambiente crítico e SLA apertado  
+- 🤝 Trabalho bem com times diversos: Engenharia, Produto, Data e Backoffice  
+- 🌱 Busco aprendizado constante e adoro olhar além do código  
+
+---
+
+## 🧭 Futuro
+
+Quero trabalhar como **Desenvolvedora Java Back‑End ou Full‑Stack**, integrada a times com cultura de melhoria contínua e crescimento internacional.
+
+---
+
+## 📬 Conecte-se comigo
+
+- **LinkedIn**: linkedin.com/in/anacvieiras  
+- **E-mail**: ana_akai@live.com
